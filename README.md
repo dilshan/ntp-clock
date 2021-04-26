@@ -1,5 +1,7 @@
 # NTP based digital clock panel
 
+![Prototype version of NTP clock driver](https://raw.githubusercontent.com/dilshan/ntp-clock/main/resources/netclk-main.jpg)
+
 This project introduces an open-source, *ATmega328* based, configurable [NTP](https://en.wikipedia.org/wiki/Network_Time_Protocol) clock with a 2.3-inch, 7-segment display driver. This clock automatically obtains time from the configured NTP server and updates the date and time of the built-in RTC (*real-time clock*). If the connection to the NTP server is lost, the clock continues to run using its built-in RTC.
 
 All the parameters of this clock can configure using its USB base serial terminal. The firmware of this clock supports both *static* and *DHCP* addressing modes. Apart from that, parameters such as NTP server address, time-offset, and clock display formats can change through the menu-driven configuration terminal.
