@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name BC501SM)(type Legacy)(uri /home/dilshan/kicad-lib/BC501SM/BC501SM.lib)(options "")(descr ""))
+  (lib (name netclock-rescue)(type Legacy)(uri ${KIPRJMOD}/netclock-rescue.lib)(options "")(descr ""))
+)
