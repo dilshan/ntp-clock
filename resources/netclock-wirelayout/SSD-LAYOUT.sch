@@ -375,4 +375,18 @@ Text Label 8550 2600 0    50   ~ 0
 A2
 Text Label 8550 2700 0    50   ~ 0
 A3
+Text Notes 2050 5550 0    50   ~ 0
+U1...U4: 
+Text Notes 2400 5700 0    50   ~ 0
+2.3 inch (57 mm) 7.2V single digit - Red.
+Text Notes 2400 5550 0    50   ~ 0
+Common anode 7-segment display.
+Text Notes 2850 2750 0    50   ~ 0
+Hour Segment 1
+Text Notes 4450 2750 0    50   ~ 0
+Hour Segment 2
+Text Notes 5950 2750 0    50   ~ 0
+Minute Segment 1
+Text Notes 7550 2750 0    50   ~ 0
+Minute Segment 2
 $EndSCHEMATC

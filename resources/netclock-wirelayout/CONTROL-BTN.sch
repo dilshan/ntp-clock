@@ -53,23 +53,11 @@ F 3 "~" H 5750 2250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	6000 3400 6150 3400
-Wire Wire Line
-	6150 3400 6150 2850
-Wire Wire Line
-	6150 2850 5900 2850
-Wire Wire Line
 	5500 3400 5300 3400
 Wire Wire Line
 	5300 3400 5300 2850
 Wire Wire Line
 	5300 2850 5600 2850
-Wire Wire Line
-	6000 3500 6300 3500
-Wire Wire Line
-	6300 3500 6300 2250
-Wire Wire Line
-	6300 2250 5900 2250
 Wire Wire Line
 	5500 3500 5150 3500
 Wire Wire Line
@@ -134,4 +122,16 @@ Text Notes 5600 5200 0    50   ~ 0
 DATE/TIME
 Text Notes 5650 4550 0    50   ~ 0
 SYNC
+Wire Wire Line
+	6200 3400 6200 2850
+Wire Wire Line
+	6000 3400 6200 3400
+Wire Wire Line
+	5900 2850 6200 2850
+Wire Wire Line
+	6350 2250 6350 3500
+Wire Wire Line
+	6000 3500 6350 3500
+Wire Wire Line
+	5900 2250 6350 2250
 $EndSCHEMATC
