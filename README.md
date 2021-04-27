@@ -22,5 +22,5 @@ This project is an open-source hardware project. All the content of this project
 
 - Hardware License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - Software and firmware License: [MIT](https://github.com/dilshan/ntp-clock/blob/main/LICENSE)
-- Documentation License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- [Documentation](https://github.com/dilshan/ntp-clock/wiki) License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
