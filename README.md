@@ -16,7 +16,7 @@ Depending on the NTP server, the user needs to specify the time offset to the sy
 
 Firmware of this clock is developed using the [Arduino framework](https://www.arduino.cc/en/software) and libraries.
 
-[**PCBWay**](https://www.pcbway.com) provides sponsorship for this project. The [PCBWay online ordering service](https://www.pcbway.com/orderonline.aspx) provides excellent help to fabricate this PCB. We got finished PCBs within three days, and the quality of the service is at a superior level. PCB of this project can directly order from PCBWay through this link.
+[**PCBWay**](https://www.pcbway.com) provides sponsorship for this project. The [PCBWay online ordering service](https://www.pcbway.com/orderonline.aspx) provides excellent help to fabricate this PCB. We got finished PCBs within three days, and the quality of the service is at a superior level. PCB of this project can directly [order from PCBWay through this link](https://www.pcbway.com/project/shareproject/NTP_based_digital_clock_panel.html).
 
 This project is an open-source hardware project. All the content of this project are distributed under the terms of the following license:
 
