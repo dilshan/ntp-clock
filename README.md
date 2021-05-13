@@ -18,9 +18,10 @@ Firmware of this clock is developed using the [Arduino framework](https://www.ar
 
 [**PCBWay**](https://www.pcbway.com) provides sponsorship for this project. The [PCBWay online ordering service](https://www.pcbway.com/orderonline.aspx) provides excellent help to fabricate this PCB. We got finished PCBs within three days, and the quality of the service is at a superior level. PCB of this project can directly [order from PCBWay through this link](https://www.pcbway.com/project/shareproject/NTP_based_digital_clock_panel.html).
 
-This project is an open-source hardware project. All the content of this project are distributed under the terms of the following license:
+This project is a [certified](https://certification.oshwa.org/lk000009.html) open-source hardware project. All the content of this project are distributed under the terms of the following license:
 
 - Hardware License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - Software and firmware License: [MIT](https://github.com/dilshan/ntp-clock/blob/main/LICENSE)
 - [Documentation](https://github.com/dilshan/ntp-clock/wiki) License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+[![LK000009](https://raw.githubusercontent.com/wiki/dilshan/ntp-clock/images/OSHW_mark_LK000009.png)](https://certification.oshwa.org/lk000009.html)
